@@ -2,7 +2,7 @@
 
 **Software Engineer · Backend Systems · Applied AI · Distributed Systems**
 
-I build software at the intersection of backend engineering and AI — from real-time services and concurrent systems to LLM-powered applications and intelligent agents.
+I build software at the intersection of backend engineering and AI - from real-time services and concurrent systems to LLM-powered applications and intelligent agents.
 
 I enjoy understanding how systems work under the hood, making them reliable, and turning ideas into working products.
 
