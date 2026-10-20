@@ -115,10 +115,9 @@ Alongside AI and software engineering, I've worked on robotics and autonomous sy
 
 I'm interested in engineering teams where I can contribute across **Applied AI, backend systems, and full-stack product development** — particularly where technical depth, experimentation, and product thinking come together.
 
-- **GitHub:** [@itsA-D](https://github.com/itsA-D)
 - **Portfolio:** [Explore my work](https://my-portfolio-seven-ivory-40.vercel.app/)
 - **LinkedIn:** [Ankan Debnath](https://www.linkedin.com/in/ankan-debnath-aa6a57259/)
-- **Email:** [ankandebnath12b@gmail.com](mailto:ankandebnath12b@gmail.com)
+- **Email:** ankandebnath12b@gmail.com
 
 <p align="center">
   <sub>Build thoughtfully. Understand the systems underneath. Make the product better.</sub>
