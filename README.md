@@ -57,7 +57,7 @@ I enjoy understanding how systems work under the hood, making them reliable, and
 
 - GitHub: [itsA-D](https://github.com/itsA-D)
 - Email: ankandebnath12b@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ankan-debnath-aa6a57259/ 
+- LinkedIn: [ANKAN DEBNATH](https://www.linkedin.com/in/ankan-debnath-aa6a57259/)
 
 ---
 
