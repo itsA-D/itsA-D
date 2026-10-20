@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/itsA-D"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/ankan-debnath-aa6a57259/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://my-portfolio-seven-ivory-40.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-334155?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:ankandebnath12b@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://photography-website-tawny-one.vercel.app/"><img src="https://img.shields.io/badge/Photography-Portfolio-8B5CF6?style=flat" alt="Photography Portfolio" /></a>
 </p>
 
-I build software at the intersection of **backend engineering and applied AI** — from distributed services, real-time systems, and concurrent execution to LLM-powered applications, retrieval pipelines, and intelligent agents.
+I build software at the intersection of **backend engineering and applied AI** - from distributed services, real-time systems and concurrent execution to LLM-powered applications, retrieval pipelines and intelligent agents.
 
-I enjoy going beyond making things work: understanding system behavior, designing reliable architectures, optimizing performance, and turning complex ideas into usable products. I also care about the frontend experience — building interfaces that are responsive, intuitive, visually consistent, and thoughtfully designed.
+I enjoy going beyond making things work: understanding system behavior, designing reliable architectures, optimizing performance, and turning complex ideas into usable products. I also care about the frontend experience - building interfaces that are responsive, intuitive, visually consistent and thoughtfully designed.
 
 Alongside AI and software engineering, I've worked on robotics and autonomous systems through simulation, mapping, navigation, and computer vision.
 
