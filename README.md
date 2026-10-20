@@ -1,4 +1,4 @@
-# Hey, I'm Ankan Debnath 👋
+# Hey, I'm Ankan👋
 
 <p align="center">
   <strong>Applied AI Engineer · Backend & Distributed Systems · Full-Stack Development · Robotics</strong>
