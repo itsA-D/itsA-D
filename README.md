@@ -14,16 +14,16 @@ Alongside AI and software engineering, I've worked on robotics and autonomous sy
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankan-debnath-aa6a57259/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-123447?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-155E75?style=for-the-badge&labelColor=0B2730&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://my-portfolio-seven-ivory-40.vercel.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-373064?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-4F46E5?style=for-the-badge&labelColor=242044&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:ankandebnath12b@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-CONTACT-713F12?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT-B45309?style=for-the-badge&labelColor=422006&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://photography-website-tawny-one.vercel.app/">
-    <img src="https://img.shields.io/badge/PHOTOGRAPHY-EXPLORE-542449?style=for-the-badge&logo=googlephotos&logoColor=white" alt="Photography Portfolio" />
+    <img src="https://img.shields.io/badge/PHOTOGRAPHY-VIEW-B83263?style=for-the-badge&labelColor=3B1528&logo=googlephotos&logoColor=white" alt="Photography Portfolio" />
   </a>
 </p>
 
