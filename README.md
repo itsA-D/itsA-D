@@ -1,4 +1,4 @@
-<img align="right" width="140" src="https://github.com/itsA-D.png" alt="Ankan Debnath" />
+<!-- <img align="right" width="140" src="https://github.com/itsA-D.png" alt="Ankan Debnath" /> -->
 
 # Hey, I'm Ankan👋
 
