@@ -1,7 +1,10 @@
-# Hey, I'm Ankan👋
+<img align="right" width="140" src="https://github.com/itsA-D.png" alt="Ankan Debnath" />
 
-<p align="center">
-  <strong>Applied AI Engineer · Backend & Distributed Systems · Full-Stack Development · Robotics</strong>
+# Hey, I'm Ankan👋
+-----
+
+<p>
+  <code>Applied AI Engineer / Backend Systems / Full-Stack Developer / Robotics</code>
 </p>
 
 <p align="center">
